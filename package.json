@@ -1,0 +1,14 @@
+{
+  "name": "day4",
+  "version": "1.0.0",
+  "description": "Express is a routing and middleware web framework that has minimal functionality of its own: An Express application is essentially a series of middleware function calls.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
